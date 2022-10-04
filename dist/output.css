@@ -587,6 +587,18 @@ video {
   height: 100%;
 }
 
+.h-\[0vh\] {
+  height: 0vh;
+}
+
+.h-\[70vh\] {
+  height: 70vh;
+}
+
+.h-\[80vh\] {
+  height: 80vh;
+}
+
 .w-full {
   width: 100%;
 }
@@ -933,6 +945,10 @@ video {
 
   .md\:hidden {
     display: none;
+  }
+
+  .md\:h-\[100vh\] {
+    height: 100vh;
   }
 
   .md\:w-80 {
