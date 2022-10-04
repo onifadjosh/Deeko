@@ -563,6 +563,10 @@ video {
   top: 0.5rem;
 }
 
+.right-1 {
+  right: 0.25rem;
+}
+
 .mb-2 {
   margin-bottom: 0.5rem;
 }
@@ -597,6 +601,14 @@ video {
 
 .h-\[80vh\] {
   height: 80vh;
+}
+
+.h-\[8900vh\] {
+  height: 8900vh;
+}
+
+.h-\[90vh\] {
+  height: 90vh;
 }
 
 .w-full {
